@@ -6,7 +6,7 @@ Install [Homebrew](https://brew.sh) on your Mac.
 
 ## Installation
 
-Check out the dotfiles:
+Clone the dotfiles repo:
 
 ```sh
 git clone https://github.com/cultureamp/web-team-dotfiles.git ~/.dotfiles-web-team
