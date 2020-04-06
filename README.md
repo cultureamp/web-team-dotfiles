@@ -2,11 +2,7 @@
 
 ## Requirements
 
-Set zsh as your login shell:
-
-```sh
-chsh -s $(which zsh)
-```
+Install [Homebrew](https://brew.sh) on your Mac.
 
 ## Installation
 
