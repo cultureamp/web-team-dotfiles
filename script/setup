@@ -7,5 +7,5 @@ then
   brew tap thoughtbot/formulae
   brew install rcm
 fi
-RCRC=~/.dotfiles-icelab/rcrc rcup
-echo "Icelab dotfiles installed"
+RCRC=~/.dotfiles-web-team/rcrc rcup
+echo "Web team dotfiles installed"

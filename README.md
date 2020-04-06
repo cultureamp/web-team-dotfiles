@@ -1,4 +1,4 @@
-# Icelab dotfiles
+# Culture Amp web team dotfiles
 
 ## Requirements
 
@@ -13,13 +13,13 @@ chsh -s $(which zsh)
 Check out the dotfiles:
 
 ```sh
-git clone https://github.com/icelab/dotfiles.git ~/.dotfiles-icelab
+git clone https://github.com/cultureamp/web-team-dotfiles.git ~/.dotfiles-web-team
 ```
 
 Install the dotfiles:
 
 ```sh
-~/.dotfiles-icelab/script/setup
+~/.dotfiles-web-team/script/setup
 ```
 
 ## Pulling updates
@@ -27,7 +27,7 @@ Install the dotfiles:
 From time to time, pull down any updates to these dotfiles:
 
 ```sh
-cd ~/.dotfiles-icelab
+cd ~/.dotfiles-web-team
 git pull
 ```
 
@@ -59,7 +59,7 @@ Your `~/.gitconfig.local` might look like this:
 ```
 [user]
   name = Tim Riley
-  email = tim@icelab.com.au
+  email = your-name@example.com
 ```
 
 Your `~/.zshenv.local` might look like this:
@@ -93,4 +93,8 @@ Thanks to Thoughtbot for [rcm](https://github.com/thoughtbot/rcm) and [their own
 dotfiles](https://github.com/thoughtbot/dotfiles), which formed the basis for
 this collection.
 
-These dotfiles are maintained by [Icelab](https://icelab.com.au/).
+Thanks to [Icelab](https://icelab.com.au/) for all the the good times we had
+while using these dotfiles.
+
+These dotfiles are maintained by the [Culture Amp](https://www.cultureamp.com)
+web team.
