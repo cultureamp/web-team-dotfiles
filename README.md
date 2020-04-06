@@ -6,6 +6,21 @@ Install [Homebrew](https://brew.sh) on your Mac.
 
 ## Installation
 
+### One-step<sup>*</sup> setup
+
+If you’re installing our [shared development environment][shared]:
+
+```sh
+brew tap cultureamp/web-team-devtools
+brew bootstrap-developer-system
+```
+
+*Two-step
+
+[shared]: https://github.com/cultureamp/homebrew-web-team-devtools#bootstrap-developer-system
+
+### Manual setup
+
 Clone the dotfiles repo:
 
 ```sh
