@@ -65,8 +65,8 @@ Your `~/.gitconfig.local` might look like this:
 Your `~/.zshenv.local` might look like this:
 
 ```
-# Use Sublime Text as default editor
-export VISUAL=subl
+# Use Visual Studio Code as default editor
+export VISUAL=code
 export EDITOR=$VISUAL
 ```
 
