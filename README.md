@@ -83,7 +83,7 @@ The `~/.zshrc.local` file is loaded after `~/.zsh/configs`.
 The `rcrc` configuration in these dotfiles also looks for a separate
 `~/.dotfiles` directory. If you create this directory, fill it with your own
 dotfiles, then run `rcup`, those dotfiles will be used in combination with (and
-in preference to) these ones. See [Tim's dotfiles][tims-dotfiles] as an example.
+in preference to) these ones. See [Tim’s dotfiles][tims-dotfiles] as an example.
 
 [tims-dotfiles]: https://github.com/timriley/dotfiles
 
