@@ -1,9 +1,3 @@
-# Unix
-alias ll='ls -la'
-
-# Bundler
-alias b="bundle"
-
 # Pretty print the path
 alias path='echo $PATH | tr -s ":" "\n"'
 
